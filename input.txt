@@ -1,0 +1,4 @@
+Result = initial+60;
+Rate = 40;
+if(Result == Rate)
+break;

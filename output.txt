@@ -1,0 +1,21 @@
+File name input.txt and input was :	
+Result = initial+60;
+Rate = 40;
+if(Result == Rate)
+break;
+
+
+
+Lexemes   	Pattern   	Value
+----------	----------	-----
+Result		id		1
+=		Op		1
+initial		id		2
++		Op		2
+60		num		1
+Rate		id		3
+40		num		2
+if		key		1
+(		Op		3
+)		Op		4
+break		key		2
